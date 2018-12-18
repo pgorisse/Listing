@@ -1,0 +1,8 @@
+loop-id:21
+bases: G154, U155, A156, U158, U159, C160
+#base1	interaction	base2
+U158	c35	U159
+U159	c35	C160
+G154	cWW	C160
+U155	c35	A156
+G154	c35	U155

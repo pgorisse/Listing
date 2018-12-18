@@ -1,0 +1,9 @@
+loop-id:58
+bases: C658, U659, A746, A747, G748
+#base1	interaction	base2
+A746	c35	A747
+A747	c35	G748
+C658	cWW	G748
+U659	s55	G748
+U659	cWW	A746
+C658	c35	U659

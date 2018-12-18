@@ -1,0 +1,9 @@
+loop-id:2
+bases: U21, G22, C43, U44, A45
+#base1	interaction	base2
+C43	c35	U44
+U44	c35	A45
+U21	cWW	A45
+G22	s55	U44
+G22	cWW	C43
+U21	c35	G22

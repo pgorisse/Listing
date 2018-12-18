@@ -1,0 +1,5 @@
+loop-id:79
+bases: G969, U970, C999
+#base1	interaction	base2
+G969	cWW	C999
+G969	c35	U970

@@ -1,0 +1,7 @@
+loop-id:80
+bases: G1020, G1021, U1033, U1034
+#base1	interaction	base2
+U1033	c35	U1034
+G1020	cWW	U1034
+G1021	s55	U1034
+G1020	c35	G1021

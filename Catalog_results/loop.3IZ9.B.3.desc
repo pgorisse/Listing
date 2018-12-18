@@ -1,0 +1,11 @@
+loop-id:3
+bases: U68, G69, G70, U97, C98, G99, A100
+#base1	interaction	base2
+C98	c35	G99
+U97	c35	C98
+G70	cWW	U97
+G99	c35	A100
+U68	cWW	A100
+G69	s55	A100
+G69	c35	G70
+U68	c35	G69

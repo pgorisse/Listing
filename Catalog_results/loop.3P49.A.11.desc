@@ -1,0 +1,11 @@
+loop-id:11
+bases: G41, U42, A43, A44, A45, U46, C47
+#base1	interaction	base2
+A45	c35	U46
+A44	c35	A45
+A43	c35	A44
+U46	c35	C47
+G41	cWW	C47
+U42	tWH	A45
+U42	c35	A43
+G41	c35	U42

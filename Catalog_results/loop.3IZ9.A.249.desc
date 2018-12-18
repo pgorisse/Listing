@@ -1,0 +1,7 @@
+loop-id:249
+bases: C3176, A3177, A3201, G3202
+#base1	interaction	base2
+A3201	c35	G3202
+C3176	cWW	G3202
+A3177	tSH	A3201
+C3176	c35	A3177

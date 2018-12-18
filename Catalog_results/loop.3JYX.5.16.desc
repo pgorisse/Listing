@@ -1,0 +1,9 @@
+loop-id:16
+bases: C208, A209, U210, A211, G212
+#base1	interaction	base2
+U210	c35	A211
+A211	c35	G212
+C208	cWW	G212
+A209	s55	G212
+A209	c35	U210
+C208	c35	A209

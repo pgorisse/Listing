@@ -1,0 +1,9 @@
+loop-id:24
+bases: C185, C186, U187, G188, C189, G190
+#base1	interaction	base2
+G188	c35	C189
+U187	c35	G188
+C189	c35	G190
+C185	cWW	G190
+C186	c35	U187
+C185	c35	C186

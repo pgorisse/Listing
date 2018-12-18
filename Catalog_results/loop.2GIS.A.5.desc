@@ -1,0 +1,12 @@
+loop-id:5
+bases: C44, A45, A46, C47, G56, U57, G58
+#base1	interaction	base2
+C47	cWW	G56
+G56	c35	U57
+A46	c35	C47
+U57	c35	G58
+C44	cWW	G58
+A45	s55	G58
+A45	tSH	U57
+A45	c35	A46
+C44	c35	A45

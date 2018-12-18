@@ -1,0 +1,7 @@
+loop-id:86
+bases: G1114, G1115, C1121, C1122
+#base1	interaction	base2
+C1121	c35	C1122
+G1114	cWW	C1122
+G1115	s55	C1122
+G1114	c35	G1115

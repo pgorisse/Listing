@@ -1,0 +1,9 @@
+loop-id:64
+bases: A652, U653, U654, C655, G656, U657
+#base1	interaction	base2
+C655	c35	G656
+U654	c35	C655
+G656	c35	U657
+A652	cWW	U657
+U653	c35	U654
+A652	c35	U653

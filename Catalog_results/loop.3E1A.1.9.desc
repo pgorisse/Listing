@@ -1,0 +1,13 @@
+loop-id:9
+bases: A74, G75, G76, A77, U92, U93, G94, C95, U96
+#base1	interaction	base2
+G94	c35	C95
+U93	c35	G94
+U92	c35	U93
+A77	cWW	U92
+G76	c35	A77
+C95	c35	U96
+A74	cWW	U96
+G75	s55	U96
+G75	c35	G76
+A74	c35	G75

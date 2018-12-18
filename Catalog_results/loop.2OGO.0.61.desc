@@ -1,0 +1,9 @@
+loop-id:61
+bases: G861, A862, C863, G940, U941, U942
+#base1	interaction	base2
+G940	c35	U941
+C863	cWW	G940
+U941	c35	U942
+G861	cWW	U942
+A862	c35	C863
+G861	c35	A862

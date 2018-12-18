@@ -1,0 +1,14 @@
+loop-id:9
+bases: C56, A57, G58, U59, G60, A61, U62, G63
+#base1	interaction	base2
+A61	c35	U62
+G60	c35	A61
+U59	c35	G60
+G58	s55	U62
+G58	tSH	A61
+G58	c35	U59
+U62	c35	G63
+C56	cWW	G63
+A57	s55	G63
+A57	c35	G58
+C56	c35	A57

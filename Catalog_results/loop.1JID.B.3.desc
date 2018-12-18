@@ -1,0 +1,8 @@
+loop-id:3
+bases: C141, C143, G154, G155, G156
+#base1	interaction	base2
+C143	s55	G155
+G154	c35	G155
+C143	cWW	G154
+G155	c35	G156
+C141	cWW	G156

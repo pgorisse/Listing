@@ -1,0 +1,8 @@
+loop-id:42
+bases: A481, U482, A505, A506, U507
+#base1	interaction	base2
+A505	c35	A506
+A506	c35	U507
+A481	cWW	U507
+U482	cWW	A505
+A481	c35	U482

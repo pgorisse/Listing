@@ -1,0 +1,5 @@
+loop-id:63
+bases: G822, U823, C826
+#base1	interaction	base2
+G822	cWW	C826
+G822	c35	U823

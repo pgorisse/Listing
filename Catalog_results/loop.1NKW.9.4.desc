@@ -1,0 +1,10 @@
+loop-id:4
+bases: U22, G23, U24, A63, C64, A65
+#base1	interaction	base2
+A63	c35	C64
+U24	cWW	A63
+C64	c35	A65
+U22	cWW	A65
+G23	s55	A65
+G23	c35	U24
+U22	c35	G23

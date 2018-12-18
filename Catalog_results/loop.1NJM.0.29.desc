@@ -1,0 +1,9 @@
+loop-id:29
+bases: C330, U331, C332, A333, G334
+#base1	interaction	base2
+C332	c35	A333
+A333	c35	G334
+C330	cWW	G334
+U331	s55	G334
+U331	c35	C332
+C330	c35	U331

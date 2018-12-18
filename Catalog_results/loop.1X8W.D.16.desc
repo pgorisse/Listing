@@ -1,0 +1,6 @@
+loop-id:16
+bases: G285, A286, U292, C293
+#base1	interaction	base2
+U292	c35	C293
+G285	cWW	C293
+G285	c35	A286

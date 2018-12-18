@@ -1,0 +1,15 @@
+loop-id:1
+bases: A3, G4, A5, U6, C7, G8, C9, A10, C11, U12
+#base1	interaction	base2
+G8	c35	C9
+C7	c35	G8
+A10	c35	C11
+C9	c35	A10
+U6	c35	C7
+A5	tSH	A10
+A5	c35	U6
+C11	c35	U12
+A3	cWW	U12
+G4	s55	U12
+G4	c35	A5
+A3	c35	G4

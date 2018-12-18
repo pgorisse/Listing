@@ -1,0 +1,16 @@
+loop-id:2
+bases: U8, G9, U16, A17, A18
+#base1	interaction	base2
+U8	tHS	A17
+U16	c35	A17
+U8	tHS	A17
+A17	c35	A18
+U8	cWW	A18
+G9	s55	A18
+G9	s55	A18
+G9	s55	A18
+G9	s55	A18
+G9	s55	A18
+G9	s55	A18
+G9	cWW	U16
+U8	c35	G9

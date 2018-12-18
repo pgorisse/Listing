@@ -1,0 +1,9 @@
+loop-id:14
+bases: U113, C114, G115, U116, A300, A301
+#base1	interaction	base2
+U116	cWW	A300
+G115	c35	U116
+A300	c35	A301
+U113	cWW	A301
+C114	c35	G115
+U113	c35	C114

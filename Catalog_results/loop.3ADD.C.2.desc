@@ -1,0 +1,8 @@
+loop-id:2
+bases: G15, U16, G18, G19, U20
+#base1	interaction	base2
+G18	c35	G19
+G19	cSH	U20
+G19	c35	U20
+G15	cWW	U20
+G15	c35	U16

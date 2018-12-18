@@ -1,0 +1,8 @@
+loop-id:59
+bases: C860, A861, U935, A936, G956
+#base1	interaction	base2
+U935	c35	A936
+C860	cWW	G956
+A861	s55	A936
+A861	cWW	U935
+C860	c35	A861

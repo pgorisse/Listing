@@ -1,0 +1,7 @@
+loop-id:67
+bases: G695, C696, G705, U706, U707
+#base1	interaction	base2
+G705	c35	U706
+U706	c35	U707
+G695	cWW	U707
+G695	c35	C696

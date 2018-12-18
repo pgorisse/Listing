@@ -1,0 +1,7 @@
+loop-id:65
+bases: G873, C874, G880, G881, C882
+#base1	interaction	base2
+G880	c35	G881
+G881	c35	C882
+G873	cWW	C882
+G873	c35	C874

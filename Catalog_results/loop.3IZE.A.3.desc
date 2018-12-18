@@ -1,0 +1,11 @@
+loop-id:3
+bases: U24, C25, A26, U27, A599, U600, A601
+#base1	interaction	base2
+A599	c35	U600
+U27	cWW	A599
+A26	c35	U27
+U600	c35	A601
+U24	cWW	A601
+C25	s55	A601
+C25	c35	A26
+U24	c35	C25

@@ -1,0 +1,6 @@
+loop-id:147
+bases: G2250, G2252, G2253, C2254
+#base1	interaction	base2
+G2252	c35	G2253
+G2253	c35	C2254
+G2250	cWW	C2254

@@ -1,0 +1,14 @@
+loop-id:5
+bases: C20, G21, G22, A23, G24, U25, A26, C27, G28
+#base1	interaction	base2
+G24	c35	U25
+A26	c35	C27
+U25	c35	A26
+A23	c35	G24
+G22	tSH	A26
+G22	c35	A23
+C27	c35	G28
+C20	cWW	G28
+G21	s55	G28
+G21	c35	G22
+C20	c35	G21

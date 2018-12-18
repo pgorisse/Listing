@@ -1,0 +1,6 @@
+loop-id:100
+bases: G1346, U1347, G1357, C1358
+#base1	interaction	base2
+G1357	c35	C1358
+G1346	cWW	C1358
+G1346	c35	U1347

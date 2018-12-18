@@ -1,0 +1,9 @@
+loop-id:1
+bases: U403, G404, A405
+#base1	interaction	base2
+U403	cWW	A405
+G404	s55	A405
+G404	s55	A405
+G404	s33	G404
+G404	c35	A405
+U403	c35	G404

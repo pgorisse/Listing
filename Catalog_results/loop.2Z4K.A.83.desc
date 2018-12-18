@@ -1,0 +1,8 @@
+loop-id:83
+bases: C998, C999, G1041, A1042, G1043
+#base1	interaction	base2
+G1041	c35	A1042
+A1042	c35	G1043
+C998	cWW	G1043
+C999	cWW	G1041
+C998	c35	C999

@@ -1,0 +1,7 @@
+loop-id:175
+bases: C2124, C2125, G2132, G2133
+#base1	interaction	base2
+G2132	c35	G2133
+C2124	cWW	G2133
+C2125	s55	G2133
+C2124	c35	C2125

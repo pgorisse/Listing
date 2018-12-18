@@ -1,0 +1,9 @@
+loop-id:4
+bases: A728, G729, A730, C731, G732, U733
+#base1	interaction	base2
+C731	c35	G732
+A730	c35	C731
+G732	c35	U733
+A728	cWW	U733
+G729	c35	A730
+A728	c35	G729

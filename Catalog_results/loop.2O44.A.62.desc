@@ -1,0 +1,9 @@
+loop-id:62
+bases: C864, A865, U866, A936, C937, G938
+#base1	interaction	base2
+A936	c35	C937
+U866	cWW	A936
+C937	c35	G938
+C864	cWW	G938
+A865	c35	U866
+C864	c35	A865

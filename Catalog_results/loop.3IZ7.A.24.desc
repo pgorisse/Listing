@@ -1,0 +1,8 @@
+loop-id:24
+bases: C230, U231, C232, U233, G234
+#base1	interaction	base2
+C232	c35	U233
+U233	c35	G234
+C230	cWW	G234
+U231	c35	C232
+C230	c35	U231

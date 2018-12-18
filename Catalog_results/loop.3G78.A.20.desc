@@ -1,0 +1,8 @@
+loop-id:20
+bases: C296, A297, U298, G320, G321
+#base1	interaction	base2
+U298	cWW	G320
+G320	c35	G321
+C296	cWW	G321
+A297	c35	U298
+C296	c35	A297

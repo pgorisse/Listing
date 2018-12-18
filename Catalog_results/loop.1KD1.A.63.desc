@@ -1,0 +1,8 @@
+loop-id:63
+bases: A793, U794, A819, G820, U821
+#base1	interaction	base2
+A819	c35	G820
+G820	c35	U821
+A793	cWW	U821
+U794	cWW	A819
+A793	c35	U794

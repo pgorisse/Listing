@@ -1,0 +1,9 @@
+loop-id:42
+bases: G454, G455, C477, A478, U479
+#base1	interaction	base2
+C477	c35	A478
+A478	c35	U479
+G454	cWW	U479
+G455	s55	A478
+G455	cWW	C477
+G454	c35	G455

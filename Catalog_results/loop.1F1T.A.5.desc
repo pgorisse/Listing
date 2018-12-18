@@ -1,0 +1,13 @@
+loop-id:5
+bases: G13, C14, G15, A16, G17, A18, G19, C20
+#base1	interaction	base2
+A18	c35	G19
+G17	c35	A18
+A16	c35	G17
+G15	s55	G19
+G15	tSH	A18
+G15	c35	A16
+G19	c35	C20
+G13	cWW	C20
+C14	c35	G15
+G13	c35	C14

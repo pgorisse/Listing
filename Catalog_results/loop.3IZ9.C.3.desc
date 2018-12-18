@@ -1,0 +1,9 @@
+loop-id:3
+bases: C15, A16, U62, U63, G64
+#base1	interaction	base2
+U62	c35	U63
+U63	c35	G64
+C15	cWW	G64
+A16	s55	G64
+A16	cWW	U62
+C15	c35	A16

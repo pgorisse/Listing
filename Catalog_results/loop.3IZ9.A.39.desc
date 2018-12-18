@@ -1,0 +1,9 @@
+loop-id:39
+bases: C596, C597, U598, C599, G600, G601
+#base1	interaction	base2
+C599	c35	G600
+U598	c35	C599
+G600	c35	G601
+C596	cWW	G601
+C597	c35	U598
+C596	c35	C597

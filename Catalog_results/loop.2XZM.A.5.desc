@@ -1,0 +1,10 @@
+loop-id:5
+bases: A27, U28, G29, C590, G591, U592
+#base1	interaction	base2
+C590	c35	G591
+G29	s55	G591
+G29	cWW	C590
+G591	c35	U592
+A27	cWW	U592
+U28	c35	G29
+A27	c35	U28

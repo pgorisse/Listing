@@ -1,0 +1,8 @@
+loop-id:41
+bases: U641, U642, A643, A644, C645, G647
+#base1	interaction	base2
+A644	c35	C645
+A643	c35	A644
+U641	cWW	G647
+U642	c35	A643
+U641	c35	U642

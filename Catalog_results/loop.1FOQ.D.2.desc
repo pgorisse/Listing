@@ -1,0 +1,8 @@
+loop-id:2
+bases: U16, U17, U21, U22, A98, A101
+#base1	interaction	base2
+U22	cWW	A98
+U21	c35	U22
+U16	cWW	A101
+U17	s55	A101
+U16	c35	U17

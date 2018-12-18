@@ -1,0 +1,10 @@
+loop-id:3
+bases: G30, A31, U33, G34, C35, A36, C40
+#base1	interaction	base2
+U33	s33	C35
+C35	c35	A36
+U33	tSH	A36
+G34	c35	C35
+U33	c35	G34
+G30	cWW	C40
+G30	c35	A31

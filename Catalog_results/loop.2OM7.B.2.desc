@@ -1,0 +1,7 @@
+loop-id:2
+bases: C370, G371, C390, G391
+#base1	interaction	base2
+C390	c35	G391
+C370	cWW	G391
+G371	s55	G391
+C370	c35	G371

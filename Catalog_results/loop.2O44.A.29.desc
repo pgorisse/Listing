@@ -1,0 +1,9 @@
+loop-id:29
+bases: G392, U393, U394, G406, A407, U408
+#base1	interaction	base2
+G406	c35	A407
+U394	cWW	G406
+A407	c35	U408
+G392	cWW	U408
+U393	c35	U394
+G392	c35	U393

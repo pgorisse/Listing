@@ -1,0 +1,7 @@
+loop-id:17
+bases: G233, C235, G236, C237, U238, C242
+#base1	interaction	base2
+C237	c35	U238
+G236	c35	C237
+C235	c35	G236
+G233	cWW	C242

@@ -1,0 +1,6 @@
+loop-id:59
+bases: G838, U841, C842, U843, C848
+#base1	interaction	base2
+C842	c35	U843
+U841	c35	C842
+G838	cWW	C848

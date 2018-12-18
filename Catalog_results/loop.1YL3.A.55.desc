@@ -1,0 +1,9 @@
+loop-id:55
+bases: G848, A849, C850, G928, G929, U930
+#base1	interaction	base2
+G928	c35	G929
+C850	cWW	G928
+G929	c35	U930
+G848	cWW	U930
+A849	c35	C850
+G848	c35	A849

@@ -1,0 +1,9 @@
+loop-id:36
+bases: U439, U440, A441, U463, A464
+#base1	interaction	base2
+A441	cWW	U463
+A441	s55	A464
+U463	c35	A464
+U439	cWW	A464
+U440	c35	A441
+U439	c35	U440

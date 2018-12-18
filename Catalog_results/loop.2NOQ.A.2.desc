@@ -1,0 +1,10 @@
+loop-id:2
+bases: A25, A26, U27, A48, A49, U50
+#base1	interaction	base2
+A48	c35	A49
+U27	cWW	A48
+A49	c35	U50
+A25	cWW	U50
+A26	s55	U50
+A26	c35	U27
+A25	c35	A26

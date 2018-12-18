@@ -1,0 +1,11 @@
+loop-id:2
+bases: G14, G15, G16, U255, U256, C257
+#base1	interaction	base2
+U255	c35	U256
+G16	s55	U256
+G16	cWW	U255
+U256	c35	C257
+G14	cWW	C257
+G15	s55	C257
+G15	c35	G16
+G14	c35	G15

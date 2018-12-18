@@ -1,0 +1,9 @@
+loop-id:33
+bases: G411, A412, C413, C414, A415, C416
+#base1	interaction	base2
+C414	c35	A415
+C413	c35	C414
+A415	c35	C416
+G411	cWW	C416
+A412	c35	C413
+G411	c35	A412

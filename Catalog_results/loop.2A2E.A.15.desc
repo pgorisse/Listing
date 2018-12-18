@@ -1,0 +1,7 @@
+loop-id:15
+bases: A219, A220, G224, C252, U256, U257
+#base1	interaction	base2
+G224	cWW	C252
+U256	c35	U257
+A219	cWW	U257
+A219	c35	A220

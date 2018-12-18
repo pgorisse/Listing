@@ -1,0 +1,9 @@
+loop-id:24
+bases: G203, G204, A205, C206, G213, C214
+#base1	interaction	base2
+C206	cWW	G213
+A205	c35	C206
+G213	c35	C214
+G203	cWW	C214
+G204	c35	A205
+G203	c35	G204

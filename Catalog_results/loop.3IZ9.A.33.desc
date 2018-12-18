@@ -1,0 +1,7 @@
+loop-id:33
+bases: G505, U506, G571, G577, C611, C614
+#base1	interaction	base2
+G577	cWW	C611
+G505	cWW	C614
+U506	cWW	G571
+G505	c35	U506

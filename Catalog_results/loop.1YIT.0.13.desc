@@ -1,0 +1,6 @@
+loop-id:13
+bases: U125, A128, A129
+#base1	interaction	base2
+U125	s33	A128
+A128	c35	A129
+U125	cWW	A129

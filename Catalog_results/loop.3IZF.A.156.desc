@@ -1,0 +1,6 @@
+loop-id:156
+bases: G1961, G1963, U2059, G2061, C2075, C2080
+#base1	interaction	base2
+G2061	cWW	C2075
+G1963	cWW	U2059
+G1961	cWW	C2080

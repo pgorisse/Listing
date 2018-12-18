@@ -1,0 +1,9 @@
+loop-id:57
+bases: U733, U734, C735, A736, A737, G738
+#base1	interaction	base2
+A736	c35	A737
+C735	c35	A736
+A737	c35	G738
+U733	cWW	G738
+U734	c35	C735
+U733	c35	U734

@@ -1,0 +1,18 @@
+loop-id:1
+bases: C4, U5, A6, G7, C34, G35
+#base1	interaction	base2
+G7	cWW	C34
+A6	c35	G7
+A6	s55	G35
+G7	s55	G35
+A6	s55	G35
+G7	s55	G35
+A6	s55	G35
+G7	s55	G35
+G7	s55	G35
+G7	s55	G35
+A6	tHS	G35
+C34	c35	G35
+C4	cWW	G35
+U5	c35	A6
+C4	c35	U5

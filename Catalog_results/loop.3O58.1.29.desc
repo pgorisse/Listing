@@ -1,0 +1,9 @@
+loop-id:29
+bases: C435, A436, G437, U623, G624
+#base1	interaction	base2
+G437	cWW	U623
+U623	c35	G624
+C435	cWW	G624
+A436	s55	G624
+A436	c35	G437
+C435	c35	A436

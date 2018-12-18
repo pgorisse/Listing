@@ -1,0 +1,9 @@
+loop-id:1
+bases: A6, G7, A8, U2895, C2896, U2897
+#base1	interaction	base2
+U2895	c35	C2896
+A8	cWW	U2895
+C2896	c35	U2897
+A6	cWW	U2897
+G7	c35	A8
+A6	c35	G7

@@ -1,0 +1,19 @@
+loop-id:2
+bases: G9, U10, C11, G20, U21, C22
+#base1	interaction	base2
+G20	c35	U21
+C11	cWW	G20
+U21	c35	C22
+G9	cWW	C22
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	cwW	U21
+U10	c35	C11
+G9	c35	U10

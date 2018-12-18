@@ -1,0 +1,12 @@
+loop-id:8
+bases: U93, U94, C95, C96, U97, C98, C99, C100, G101
+#base1	interaction	base2
+C99	c35	C100
+C98	c35	C99
+U97	c35	C98
+C96	c35	U97
+C95	c35	C96
+C100	c35	G101
+U93	cWW	G101
+U94	c35	C95
+U93	c35	U94

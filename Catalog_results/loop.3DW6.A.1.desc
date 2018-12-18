@@ -1,0 +1,7 @@
+loop-id:1
+bases: C2649, C2651, G2669, A2670, G2671
+#base1	interaction	base2
+G2669	c35	A2670
+C2651	cWW	G2669
+A2670	c35	G2671
+C2649	cWW	G2671

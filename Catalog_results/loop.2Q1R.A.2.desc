@@ -1,0 +1,7 @@
+loop-id:2
+bases: A1005, A1006, U1007, U1008
+#base1	interaction	base2
+U1007	c35	U1008
+A1005	cWW	U1008
+A1006	c35	U1007
+A1005	c35	A1006

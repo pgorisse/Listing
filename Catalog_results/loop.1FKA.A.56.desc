@@ -1,0 +1,8 @@
+loop-id:56
+bases: G757, G758, G759, C789, C790
+#base1	interaction	base2
+G759	cWW	C789
+C789	c35	C790
+G757	cWW	C790
+G758	c35	G759
+G757	c35	G758

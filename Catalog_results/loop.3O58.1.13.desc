@@ -1,0 +1,8 @@
+loop-id:13
+bases: A164, A165, C166, G256, U257
+#base1	interaction	base2
+C166	cWW	G256
+G256	c35	U257
+A164	cWW	U257
+A165	c35	C166
+A164	c35	A165

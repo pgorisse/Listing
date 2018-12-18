@@ -1,0 +1,9 @@
+loop-id:26
+bases: U306, G307, G308, A309, A310, A311
+#base1	interaction	base2
+A309	c35	A310
+G308	c35	A309
+A310	c35	A311
+U306	cWW	A311
+G307	c35	G308
+U306	c35	G307

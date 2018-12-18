@@ -1,0 +1,9 @@
+loop-id:48
+bases: C522, A523, G524, C525, C526, G527
+#base1	interaction	base2
+C525	c35	C526
+G524	c35	C525
+C526	c35	G527
+C522	cWW	G527
+A523	c35	G524
+C522	c35	A523

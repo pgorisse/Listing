@@ -1,0 +1,9 @@
+loop-id:38
+bases: C487, G488, G489, G491, A492, G493
+#base1	interaction	base2
+G491	c35	A492
+A492	c35	G493
+C487	cWW	G493
+G488	tSH	A492
+G488	c35	G489
+C487	c35	G488

@@ -1,0 +1,9 @@
+loop-id:33
+bases: C544, U545, U546, A547, G548, G549
+#base1	interaction	base2
+A547	c35	G548
+U546	c35	A547
+G548	c35	G549
+C544	cWW	G549
+U545	c35	U546
+C544	c35	U545

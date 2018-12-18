@@ -1,0 +1,7 @@
+loop-id:123
+bases: C1581, A1582, A1583, G1584
+#base1	interaction	base2
+A1583	c35	G1584
+C1581	cWW	G1584
+A1582	c35	A1583
+C1581	c35	A1582

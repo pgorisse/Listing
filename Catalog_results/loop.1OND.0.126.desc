@@ -1,0 +1,7 @@
+loop-id:126
+bases: C1549, C1550, U1551, C1552, G1554
+#base1	interaction	base2
+U1551	c35	C1552
+C1549	cWW	G1554
+C1550	c35	U1551
+C1549	c35	C1550

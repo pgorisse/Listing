@@ -1,0 +1,8 @@
+loop-id:4
+bases: A26, C27, G71, C72, U73
+#base1	interaction	base2
+G71	c35	C72
+C72	c35	U73
+A26	cWW	U73
+C27	cWW	G71
+A26	c35	C27

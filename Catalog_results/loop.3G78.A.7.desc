@@ -1,0 +1,8 @@
+loop-id:7
+bases: U82, G83, U84, A99, A100
+#base1	interaction	base2
+U84	cWW	A99
+A99	c35	A100
+U82	cWW	A100
+G83	c35	U84
+U82	c35	G83

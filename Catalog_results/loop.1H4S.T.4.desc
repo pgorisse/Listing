@@ -1,0 +1,13 @@
+loop-id:4
+bases: G52, G53, C56, A57, G58, A59, U60, C61, C62
+#base1	interaction	base2
+U60	c35	C61
+A59	s55	U60
+A59	c35	U60
+G58	c35	A59
+A57	c35	G58
+C56	c35	A57
+C61	c35	C62
+G52	cWW	C62
+G53	s55	C62
+G52	c35	G53

@@ -1,0 +1,7 @@
+loop-id:5
+bases: C118, U119, U120, G125
+#base1	interaction	base2
+C118	cWW	G125
+U119	s55	G125
+U119	c35	U120
+C118	c35	U119

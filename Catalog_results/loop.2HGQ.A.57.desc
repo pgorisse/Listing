@@ -1,0 +1,9 @@
+loop-id:57
+bases: C844, G845, C846, G932, A933, G934
+#base1	interaction	base2
+G932	c35	A933
+C846	cWW	G932
+A933	c35	G934
+C844	cWW	G934
+G845	c35	C846
+C844	c35	G845

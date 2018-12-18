@@ -1,0 +1,8 @@
+loop-id:74
+bases: A983, G984, U985, A1099, U1100
+#base1	interaction	base2
+U985	cWW	A1099
+A1099	c35	U1100
+A983	cWW	U1100
+G984	c35	U985
+A983	c35	G984

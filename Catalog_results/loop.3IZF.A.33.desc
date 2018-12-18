@@ -1,0 +1,9 @@
+loop-id:33
+bases: G511, U512, A578, G579, C580
+#base1	interaction	base2
+A578	c35	G579
+G579	c35	C580
+G511	cWW	C580
+U512	s55	G579
+U512	cWW	A578
+G511	c35	U512

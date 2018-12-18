@@ -1,0 +1,12 @@
+loop-id:3
+bases: U21, U22, A23, U596, U597, A598
+#base1	interaction	base2
+U596	c35	U597
+A23	s55	U597
+A23	cWW	U596
+U597	c35	A598
+U21	cWW	A598
+U22	s55	A598
+U22	cwW	U597
+U22	c35	A23
+U21	c35	U22

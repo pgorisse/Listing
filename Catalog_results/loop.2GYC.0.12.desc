@@ -1,0 +1,8 @@
+loop-id:12
+bases: U154, A161, U162, C163, C164, A165, A172
+#base1	interaction	base2
+C164	c35	A165
+C163	c35	C164
+U162	c35	C163
+A161	c35	U162
+U154	cWW	A172

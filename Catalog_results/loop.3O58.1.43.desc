@@ -1,0 +1,9 @@
+loop-id:43
+bases: G668, U669, C670, G792, C793, U794
+#base1	interaction	base2
+G792	c35	C793
+C670	cWW	G792
+C793	c35	U794
+G668	cWW	U794
+U669	c35	C670
+G668	c35	U669

@@ -1,0 +1,9 @@
+loop-id:14
+bases: G279, G280, G281, U297, C298
+#base1	interaction	base2
+G281	cWW	U297
+G281	s55	C298
+U297	c35	C298
+G279	cWW	C298
+G280	c35	G281
+G279	c35	G280

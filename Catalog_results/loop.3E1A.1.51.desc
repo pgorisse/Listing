@@ -1,0 +1,9 @@
+loop-id:51
+bases: G615, G616, G617, C623, C624, U625
+#base1	interaction	base2
+C623	c35	C624
+G617	cWW	C623
+C624	c35	U625
+G615	cWW	U625
+G616	c35	G617
+G615	c35	G616

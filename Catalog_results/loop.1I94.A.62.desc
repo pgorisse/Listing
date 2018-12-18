@@ -1,0 +1,8 @@
+loop-id:62
+bases: G821, U822, C823, U824, C825
+#base1	interaction	base2
+C823	c35	U824
+U824	c35	C825
+G821	cWW	C825
+U822	c35	C823
+G821	c35	U822

@@ -1,0 +1,9 @@
+loop-id:13
+bases: G128, A129, U130, C131, A132, C133
+#base1	interaction	base2
+C131	c35	A132
+U130	c35	C131
+A132	c35	C133
+G128	cWW	C133
+A129	c35	U130
+G128	c35	A129

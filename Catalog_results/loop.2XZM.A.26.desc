@@ -1,0 +1,9 @@
+loop-id:26
+bases: A201, U202, U203, A254, C255, U256
+#base1	interaction	base2
+A254	c35	C255
+U203	cWW	A254
+C255	c35	U256
+A201	cWW	U256
+U202	c35	U203
+A201	c35	U202

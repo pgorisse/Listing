@@ -1,0 +1,11 @@
+loop-id:3
+bases: G53, C54, G55, C56, A57, A58, G64, C65
+#base1	interaction	base2
+A57	c35	A58
+C56	c35	A57
+G55	tSH	A58
+G55	c35	C56
+G64	c35	C65
+G53	cWW	C65
+C54	c35	G55
+G53	c35	C54

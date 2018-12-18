@@ -1,0 +1,8 @@
+loop-id:26
+bases: U318, U319, U320, A323, U345, G346
+#base1	interaction	base2
+A323	cWW	U345
+U345	c35	G346
+U318	cWW	G346
+U319	c35	U320
+U318	c35	U319

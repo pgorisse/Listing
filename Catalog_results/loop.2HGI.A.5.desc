@@ -1,0 +1,11 @@
+loop-id:5
+bases: G44, U45, G46, C395, G396, A397, C398
+#base1	interaction	base2
+G396	c35	A397
+C395	c35	G396
+G46	s55	G396
+G46	cWW	C395
+A397	c35	C398
+G44	cWW	C398
+U45	c35	G46
+G44	c35	U45

@@ -1,0 +1,8 @@
+loop-id:26
+bases: G255, G256, U257, G261, G262, C263
+#base1	interaction	base2
+G261	c35	G262
+G262	c35	C263
+G255	cWW	C263
+G256	c35	U257
+G255	c35	G256

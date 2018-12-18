@@ -1,0 +1,10 @@
+loop-id:1
+bases: U9, A10, A11, U28, G29
+#base1	interaction	base2
+A11	cWW	U28
+A11	s55	G29
+U28	c35	G29
+U9	cWW	G29
+A10	cSH	A11
+A10	c35	A11
+U9	c35	A10

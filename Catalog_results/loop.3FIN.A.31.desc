@@ -1,0 +1,9 @@
+loop-id:31
+bases: C319, A320, G321, A322, G323
+#base1	interaction	base2
+G321	c35	A322
+A322	c35	G323
+C319	cWW	G323
+A320	s55	G323
+A320	c35	G321
+C319	c35	A320

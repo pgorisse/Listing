@@ -1,0 +1,9 @@
+loop-id:25
+bases: C299, C300, C301, G361, C362, G363
+#base1	interaction	base2
+G361	c35	C362
+C301	cWW	G361
+C362	c35	G363
+C299	cWW	G363
+C300	c35	C301
+C299	c35	C300

@@ -1,0 +1,7 @@
+loop-id:56
+bases: C712, U713, U714, G716
+#base1	interaction	base2
+U714	s55	G716
+C712	cWW	G716
+U713	c35	U714
+C712	c35	U713

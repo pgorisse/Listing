@@ -1,0 +1,6 @@
+loop-id:5
+bases: C27, C28, G43
+#base1	interaction	base2
+C27	cWW	G43
+C28	s55	G43
+C27	c35	C28

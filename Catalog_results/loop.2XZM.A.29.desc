@@ -1,0 +1,9 @@
+loop-id:29
+bases: A226, G227, C228, A229, A230, U231
+#base1	interaction	base2
+A229	c35	A230
+C228	c35	A229
+A230	c35	U231
+A226	cWW	U231
+G227	c35	C228
+A226	c35	G227

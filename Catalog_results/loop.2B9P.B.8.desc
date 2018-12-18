@@ -1,0 +1,12 @@
+loop-id:8
+bases: G85, G86, G87, C88, G89, C90, C91
+#base1	interaction	base2
+G89	c35	C90
+C88	c35	G89
+G87	s55	C90
+G87	c35	C88
+C90	c35	C91
+G85	cWW	C91
+G86	s55	C91
+G86	c35	G87
+G85	c35	G86

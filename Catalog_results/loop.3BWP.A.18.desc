@@ -1,0 +1,8 @@
+loop-id:18
+bases: C304, C305, A313, G314, G315
+#base1	interaction	base2
+A313	c35	G314
+G314	c35	G315
+C304	cWW	G315
+C305	s55	G315
+C304	c35	C305

@@ -1,0 +1,8 @@
+loop-id:38
+bases: U447, C448, G458, G459, A460
+#base1	interaction	base2
+G458	c35	G459
+G459	c35	A460
+U447	cWW	A460
+C448	cWW	G458
+U447	c35	C448

@@ -1,0 +1,9 @@
+loop-id:36
+bases: U359, U360, A361, G362, G363, G364
+#base1	interaction	base2
+G362	c35	G363
+A361	c35	G362
+G363	c35	G364
+U359	cWW	G364
+U360	c35	A361
+U359	c35	U360

@@ -1,0 +1,9 @@
+loop-id:14
+bases: G124, U125, G126, C235, G236, C237
+#base1	interaction	base2
+C235	c35	G236
+G126	cWW	C235
+G236	c35	C237
+G124	cWW	C237
+U125	c35	G126
+G124	c35	U125

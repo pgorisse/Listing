@@ -1,0 +1,6 @@
+loop-id:207
+bases: G2773, U2774, U2778, C2779
+#base1	interaction	base2
+U2778	c35	C2779
+G2773	cWW	C2779
+G2773	c35	U2774

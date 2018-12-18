@@ -1,0 +1,11 @@
+loop-id:2
+bases: A12, U13, A34, C35, U36
+#base1	interaction	base2
+A34	c35	C35
+C35	cSH	U36
+C35	cSH	U36
+C35	cSH	U36
+C35	c35	U36
+A12	cWW	U36
+U13	cWW	A34
+A12	c35	U13

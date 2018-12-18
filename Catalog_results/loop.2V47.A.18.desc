@@ -1,0 +1,7 @@
+loop-id:18
+bases: G154, U157, U158, G171, C172
+#base1	interaction	base2
+U157	c35	U158
+G154	s33	G154
+G171	c35	C172
+G154	cWW	C172

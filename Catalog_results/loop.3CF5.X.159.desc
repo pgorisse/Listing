@@ -1,0 +1,7 @@
+loop-id:159
+bases: C2089, U2090, A2165, G2166
+#base1	interaction	base2
+A2165	c35	G2166
+C2089	cWW	G2166
+U2090	s55	G2166
+C2089	c35	U2090

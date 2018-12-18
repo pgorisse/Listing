@@ -1,0 +1,11 @@
+loop-id:2
+bases: G15, G16, G17, C533, U534, U535
+#base1	interaction	base2
+C533	c35	U534
+G17	s55	U534
+G17	cWW	C533
+U534	c35	U535
+G15	cWW	U535
+G16	s55	U535
+G16	c35	G17
+G15	c35	G16

@@ -1,0 +1,13 @@
+loop-id:1
+bases: C7, G8, C17, G18, C42, A43, G44, G45
+#base1	interaction	base2
+A43	c35	G44
+C42	c35	A43
+G18	s55	A43
+G18	cWW	C42
+C17	c35	G18
+G44	c35	G45
+C7	cWW	G45
+G8	s55	G45
+G8	cWW	C17
+C7	c35	G8
