@@ -158,9 +158,11 @@ Autre remarque : si vous n'êtes pas familiers avec le vocabulaire de la théori
 
 
 Base libre: base ne réalisant pas d'interaction canonique
-int. canonique: cWW entre AU, CG, GU, c53 et 35 pas interactions du tout, toutes les s** pas interactions.
+int. canonique: cWW entre AU, CG, GU, c53 et 35 pas interactions du tout,
+toutes les s** pas interactions.
 
--Identifier bases libres: dans un fichier interaction_fr3D, on cherche les bases ne réalisant pas d'interactions canoniques.
-Parmis celle-ci, on sélectionne celles qui réalisent des int. non-canoniques, et distantes (l'interaction qu'elle réalise ne doit
-pas se faire au sein d'une boucle déja listée.)
+-Identifier bases libres: dans un fichier interaction_fr3D, on cherche les bases ne réalisant
+pas d'interactions canoniques.
+Parmis celle-ci, on sélectionne celles qui réalisent des int. non-canoniques, et distantes
+(l'interaction qu'elle réalise ne doit pas se faire au sein d'une boucle déja listée.)
 classe: ARN, Boucles, arrête

@@ -1,3 +1,5 @@
+from base import Base
+
 class ARN:
     def __init__(self, name):
         self.name = name
@@ -7,12 +9,16 @@ class ARN:
         self.chain_id=""
         self.chain=""
         self.loops=[]
+        self.bases_libres=[]
 
     def _get_bases(self):
         return self.bases
 
-    def _set_bases(self, bases):
-        self.bases = bases
+    def _set_bases(self):
+        base_list=list(self.chain)
+        for i in range(len(base_list)):
+            self._add_base(Base(base_list[i],i+1))
+
 
     def _add_base(self, base):
         self.bases.append(base)
