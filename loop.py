@@ -3,6 +3,8 @@ class Loop:
         self.interactions = []
         self.chain_id = chain_id
         self.bases = []
+        self.bases_libres = []
+        self.interactions_dist = []
         self.name = name
         self.id = id
         self.filename = "Catalog_results/loop." + self.name + "." + self.chain_id + "." + self.id + ".desc"
