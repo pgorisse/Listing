@@ -4,6 +4,7 @@ from interaction import Interaction
 from base import Base
 from loop import Loop
 from ARN import ARN
+from graph import Graph
 
 data_folder = "DATA2/"
 
@@ -63,18 +64,17 @@ def parse(dir_name):
 
 def main():
     arn_list = parse(data_folder)
+    graph_list = []
     for arn in arn_list:
-        # On cherche les bases libres dans chaque boucle de l'ARN (BL)
+        # On cherche les bases libres dans chaque boucle de l'ARN (BL), et les interactions distantes (ID)
         for loop in arn.loops:
             for base in loop.bases:
                 test = 0
                 for interaction in loop.interactions:
                     if base == interaction.base1 and interaction.is_canonique():
                         test = 1
-                        print(interaction)
                     elif base == interaction.base2 and interaction.is_canonique():
                         test = 1
-                        print(interaction)
                 if test == 0:
                     loop.bases_libres.append(base)
             # On cherche les interactions non-canoniques distantes ayant une extrémité dans BL (ID)
@@ -84,8 +84,32 @@ def main():
                         if interaction not in loop.interactions and interaction not in loop.interactions_dist \
                                 and not interaction.is_canonique():
                             loop.interactions_dist.append(interaction)
+            # Création du graphe d'interactions
+            if loop.interactions_dist:
+                E = loop.interactions_dist
+                V = []
+                for interaction in loop.interactions_dist:
+                    if interaction.base1 not in V: V.append(interaction.base1)
+                    if interaction.base2 not in V: V.append(interaction.base2)
+                inter_graph = Graph(V, E)
+                # Ajout au graphique des interactions stacking entre deux éléments de V
+                for interaction in arn.interactions:
+                    if interaction.type[1:] == "s" and interaction.base1 in inter_graph.V \
+                            and interaction.base2 in inter_graph.V and interaction not in inter_graph.E:
+                        inter_graph.E.append(interaction)
+                # On ajoute le graphe à la liste, si il ne s'y trouve pas déja
+                test=0
+                for g in graph_list:
+                    if g == inter_graph:
+                        test=1
+                if not test:
+                    graph_list.append(inter_graph)
     display(arn_list)
+    print("##### Graphes trouvés: #####")
+    for g in graph_list:
+        print(g)
 
+    print(str([str(base) for base in arn.loops[0].bases_libres]))
 
 def display(arn_list):
     for i in range(len(arn_list)):
