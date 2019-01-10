@@ -91,7 +91,7 @@ def main():
                 for interaction in loop.interactions_dist:
                     if interaction.base1 not in V: V.append(interaction.base1)
                     if interaction.base2 not in V: V.append(interaction.base2)
-                inter_graph = Graph(V, E)
+                inter_graph = Graph(V, E, loop.filename)
                 # Ajout au graphique des interactions stacking entre deux éléments de V
                 for interaction in arn.interactions:
                     if interaction.type[1:] == "s" and interaction.base1 in inter_graph.V \
@@ -104,12 +104,36 @@ def main():
                         test=1
                 if not test:
                     graph_list.append(inter_graph)
+        # On recherche les interacting interfaces (boucles dans lesquelles sont impliquées les bases du graphe)
+        for graph in graph_list:
+            for base in graph.V:
+                for loop in arn.loops:
+                    if base in loop.bases and loop.filename not in graph.interacting_interfaces:
+                        graph.interacting_interfaces.append(loop.filename)
     display(arn_list)
     print("##### Graphes trouvés: #####")
     for g in graph_list:
         print(g)
+        write_results(g)
 
-    print(str([str(base) for base in arn.loops[0].bases_libres]))
+def write_results(g):
+    file=open("Results/"+"dist"+g.loop_name[20:],"a+")
+    file.write("dist-id:"+g.loop_name[-6:-5]+"\n")
+    base_line="bases: "
+    for base in g.V:
+        base_line+=str(base)+", "
+    base_line=base_line[:-2]+"\n"
+    file.write(base_line)
+    file.write("#base1 interaction base2\n")
+    for inter in g.E:
+        file.write(str(inter)+"\n")
+    file.write("\n#interacting interfaces:\n\n")
+    for loop_name in g.interacting_interfaces:
+        loop_file=open(loop_name)
+        for line in loop_file:
+            file.write(line)
+        loop_file.close()
+
 
 def display(arn_list):
     for i in range(len(arn_list)):

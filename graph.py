@@ -1,14 +1,17 @@
 from base import Base
 from interaction import Interaction
 
+
 class Graph:
-    def __init__(self, bases, interactions):
+    def __init__(self, bases, interactions, loop_name):
         self.V = bases
         self.E = interactions
-
+        self.interacting_interfaces = []
+        self.loop_name = loop_name
 
     def __str__(self):
-        return "V: "+str([str(base) for base in self.V])+" E: "+str([str(inter) for inter in self.E])
+        return "V: " + str([str(base) for base in self.V]) + "\nE: " + str(
+            [str(inter) for inter in self.E]) + "\nInteracting interfaces: " + str(self.interacting_interfaces)
 
     def __eq__(self, other):
         for base in self.V:
